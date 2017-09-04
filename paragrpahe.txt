@@ -1,0 +1,38 @@
+<div class="row">
+            <div class="col-3">
+                
+            </div>
+            <div class="col-6">
+                
+            </div>
+            <div class="col-3">
+                
+            </div>
+        </div>
+
+        <div class="header">
+            <h1>Welcome to the WILD CIRCUS International</h1>
+        </div>
+        <div id="presentation">
+            <p>
+                Depuis plus de 50 ans, le cirque international Wild circus ce produit à travers le monde. Le wild circus a fait sa réputation grace a des numéros epoustouflant qui saura ravir les petits comme les grands.<br>
+                Vous y trouverez des numeros d'une grande finesse, des démonstrations de force et d'agilité mais également rempli d'humour sans oublier nos amis les animaux qui sauront redonner le sourire et la joie 
+                de vivre à toute la famille.
+            </p> 
+        </div>
+        <div id="contenu1">
+            <p>Lors de ce show exceptionnel vous pourrez découvrir la troupe NomTroupe dans une fabuleuse prestation féérique alliant la force, l'agilité et la douceur.</p>
+            <img src="image_contenu1.jpg">
+        </div>
+        <div id "contenu2">
+            <p>Vous pourrez également découvrir de nombreux numéros rassemblant nos amis les animaux. De l'agilité des tigres, en passant par la précision des éléphants jusqu'a la douceur des Otaries.</p> 
+            <img src="tigre.jpg">
+        </div>
+        <div id="contenu3">
+            
+        </div>
+    </body>
+    <footer>
+        
+    </footer>
+</html>
